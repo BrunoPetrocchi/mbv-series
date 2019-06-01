@@ -1,0 +1,8 @@
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\bin\Debug\netcoreapp2.0\MBV.Core.Application.deps.json
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\bin\Debug\netcoreapp2.0\MBV.Core.Application.dll
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\bin\Debug\netcoreapp2.0\MBV.Core.Application.pdb
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\obj\Debug\netcoreapp2.0\MBV.Core.Application.csproj.CoreCompileInputs.cache
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\obj\Debug\netcoreapp2.0\MBV.Core.Application.AssemblyInfoInputs.cache
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\obj\Debug\netcoreapp2.0\MBV.Core.Application.AssemblyInfo.cs
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\obj\Debug\netcoreapp2.0\MBV.Core.Application.dll
+C:\Users\Miranda\source\repos\mbv-series\MBV.Business\MBV.NET.Core\MBV.Core.Application\obj\Debug\netcoreapp2.0\MBV.Core.Application.pdb

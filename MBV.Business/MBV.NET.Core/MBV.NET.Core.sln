@@ -1,11 +1,43 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28729.10
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBV.Core", "MBV.Core", "{E1323A98-04B1-4A9F-B7D0-3AE930BCBD9A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBV.Infra", "MBV.Infra", "{75A152E8-C78F-4B8E-AF39-D2184FC14103}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBV.Integration", "MBV.Integration", "{F8E8D95F-159C-4F3A-BD24-E78BAADDA1B5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBV.Shared", "MBV.Shared", "{1260FD3F-55B0-4250-A2F5-FB92F6AFBA06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MBV.Tests", "MBV.Tests", "{F9B74449-42C4-4DD8-80D6-F762530B9D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBV.Core.Domain", "MBV.Core.Domain\MBV.Core.Domain.csproj", "{65FA36BE-F681-4F0C-8348-3BCBA32A96B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MBV.Core.Application", "MBV.Core.Application\MBV.Core.Application.csproj", "{FB4D383A-FD28-4F80-8423-9EA1457FDAAA}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65FA36BE-F681-4F0C-8348-3BCBA32A96B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65FA36BE-F681-4F0C-8348-3BCBA32A96B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65FA36BE-F681-4F0C-8348-3BCBA32A96B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65FA36BE-F681-4F0C-8348-3BCBA32A96B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB4D383A-FD28-4F80-8423-9EA1457FDAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4D383A-FD28-4F80-8423-9EA1457FDAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4D383A-FD28-4F80-8423-9EA1457FDAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4D383A-FD28-4F80-8423-9EA1457FDAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{65FA36BE-F681-4F0C-8348-3BCBA32A96B0} = {E1323A98-04B1-4A9F-B7D0-3AE930BCBD9A}
+		{FB4D383A-FD28-4F80-8423-9EA1457FDAAA} = {E1323A98-04B1-4A9F-B7D0-3AE930BCBD9A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {738AEF4A-F483-4E2A-B441-B290315A8352}
